@@ -1,4 +1,6 @@
+## Introduction 
 
+This is an official repo of implementation of automated hand gestured controlled Media player built using OpenCV, Mediapipe and Pyautogui
 Python module/script allowing a user to control any media player using hand gestures and face tracking.
 
 ## Features
